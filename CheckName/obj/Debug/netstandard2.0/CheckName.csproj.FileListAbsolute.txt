@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\CheckName\CheckName\bin\Debug\netstandard2.0\CheckName.deps.json
+C:\Users\user\source\repos\CheckName\CheckName\bin\Debug\netstandard2.0\CheckName.dll
+C:\Users\user\source\repos\CheckName\CheckName\bin\Debug\netstandard2.0\ref\CheckName.dll
+C:\Users\user\source\repos\CheckName\CheckName\bin\Debug\netstandard2.0\CheckName.pdb
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\CheckName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\CheckName.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\CheckName.AssemblyInfo.cs
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\CheckName.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\CheckName.dll
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\ref\CheckName.dll
+C:\Users\user\source\repos\CheckName\CheckName\obj\Debug\netstandard2.0\CheckName.pdb
