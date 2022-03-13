@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFKale", "WPFKale\WPFKale.csproj", "{96AFC8C4-2449-4B65-9389-BD146BE0C00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AFC8C4-2449-4B65-9389-BD146BE0C00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AFC8C4-2449-4B65-9389-BD146BE0C00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AFC8C4-2449-4B65-9389-BD146BE0C00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AFC8C4-2449-4B65-9389-BD146BE0C00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {134B7D7F-DF40-4BA2-8DFB-C195419D55F4}
+	EndGlobalSection
+EndGlobal
