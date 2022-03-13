@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ServerTCPHW2\ServerTCPHW2\obj\Debug\ServerTCPHW2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ServerTCPHW2\ServerTCPHW2\obj\Debug\ServerTCPHW2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServerTCPHW2\ServerTCPHW2\bin\Debug\ServerTCPHW2.exe.config
+C:\Users\user\source\repos\ServerTCPHW2\ServerTCPHW2\bin\Debug\ServerTCPHW2.exe
+C:\Users\user\source\repos\ServerTCPHW2\ServerTCPHW2\bin\Debug\ServerTCPHW2.pdb
+C:\Users\user\source\repos\ServerTCPHW2\ServerTCPHW2\obj\Debug\ServerTCPHW2.exe
+C:\Users\user\source\repos\ServerTCPHW2\ServerTCPHW2\obj\Debug\ServerTCPHW2.pdb
