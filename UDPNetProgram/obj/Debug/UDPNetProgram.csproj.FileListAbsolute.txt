@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\UDPNetProgram\UDPNetProgram\bin\Debug\UDPNetProgram.exe.config
+C:\Users\user\source\repos\UDPNetProgram\UDPNetProgram\bin\Debug\UDPNetProgram.exe
+C:\Users\user\source\repos\UDPNetProgram\UDPNetProgram\bin\Debug\UDPNetProgram.pdb
+C:\Users\user\source\repos\UDPNetProgram\UDPNetProgram\obj\Debug\UDPNetProgram.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UDPNetProgram\UDPNetProgram\obj\Debug\UDPNetProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UDPNetProgram\UDPNetProgram\obj\Debug\UDPNetProgram.exe
+C:\Users\user\source\repos\UDPNetProgram\UDPNetProgram\obj\Debug\UDPNetProgram.pdb
