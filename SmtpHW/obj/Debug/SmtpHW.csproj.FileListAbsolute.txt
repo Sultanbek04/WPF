@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SmtpHW\SmtpHW\bin\Debug\SmtpHW.exe.config
+C:\Users\user\source\repos\SmtpHW\SmtpHW\bin\Debug\SmtpHW.exe
+C:\Users\user\source\repos\SmtpHW\SmtpHW\bin\Debug\SmtpHW.pdb
+C:\Users\user\source\repos\SmtpHW\SmtpHW\obj\Debug\SmtpHW.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SmtpHW\SmtpHW\obj\Debug\SmtpHW.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SmtpHW\SmtpHW\obj\Debug\SmtpHW.exe
+C:\Users\user\source\repos\SmtpHW\SmtpHW\obj\Debug\SmtpHW.pdb
