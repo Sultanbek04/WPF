@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleServerTCP\ConsoleServerTCP\obj\Debug\ConsoleServerTCP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleServerTCP\ConsoleServerTCP\obj\Debug\ConsoleServerTCP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleServerTCP\ConsoleServerTCP\bin\Debug\ConsoleServerTCP.exe.config
+C:\Users\user\source\repos\ConsoleServerTCP\ConsoleServerTCP\bin\Debug\ConsoleServerTCP.exe
+C:\Users\user\source\repos\ConsoleServerTCP\ConsoleServerTCP\bin\Debug\ConsoleServerTCP.pdb
+C:\Users\user\source\repos\ConsoleServerTCP\ConsoleServerTCP\obj\Debug\ConsoleServerTCP.exe
+C:\Users\user\source\repos\ConsoleServerTCP\ConsoleServerTCP\obj\Debug\ConsoleServerTCP.pdb

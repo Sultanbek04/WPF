@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleServerTCP\ChooseACard\bin\Debug\ChooseACard.exe.config
+C:\Users\user\source\repos\ConsoleServerTCP\ChooseACard\bin\Debug\ChooseACard.exe
+C:\Users\user\source\repos\ConsoleServerTCP\ChooseACard\bin\Debug\ChooseACard.pdb
+C:\Users\user\source\repos\ConsoleServerTCP\ChooseACard\obj\Debug\ChooseACard.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleServerTCP\ChooseACard\obj\Debug\ChooseACard.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleServerTCP\ChooseACard\obj\Debug\ChooseACard.exe
+C:\Users\user\source\repos\ConsoleServerTCP\ChooseACard\obj\Debug\ChooseACard.pdb
