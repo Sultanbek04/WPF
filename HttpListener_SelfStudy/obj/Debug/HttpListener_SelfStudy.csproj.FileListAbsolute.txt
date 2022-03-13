@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\HttpListener_SelfStudy\HttpListener_SelfStudy\bin\Debug\HttpListener_SelfStudy.exe.config
+C:\Users\user\source\repos\HttpListener_SelfStudy\HttpListener_SelfStudy\bin\Debug\HttpListener_SelfStudy.exe
+C:\Users\user\source\repos\HttpListener_SelfStudy\HttpListener_SelfStudy\bin\Debug\HttpListener_SelfStudy.pdb
+C:\Users\user\source\repos\HttpListener_SelfStudy\HttpListener_SelfStudy\obj\Debug\HttpListener_SelfStudy.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HttpListener_SelfStudy\HttpListener_SelfStudy\obj\Debug\HttpListener_SelfStudy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HttpListener_SelfStudy\HttpListener_SelfStudy\obj\Debug\HttpListener_SelfStudy.exe
+C:\Users\user\source\repos\HttpListener_SelfStudy\HttpListener_SelfStudy\obj\Debug\HttpListener_SelfStudy.pdb
