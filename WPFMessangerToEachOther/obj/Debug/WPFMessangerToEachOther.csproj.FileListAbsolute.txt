@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\bin\Debug\WPFMessangerToEachOther.exe.config
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\bin\Debug\WPFMessangerToEachOther.exe
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\bin\Debug\WPFMessangerToEachOther.pdb
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther_MarkupCompile.cache
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther_MarkupCompile.lref
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther.g.resources
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther.Properties.Resources.resources
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther.exe
+C:\Users\user\source\repos\WPFMessangerToEachOther\WPFMessangerToEachOther\obj\Debug\WPFMessangerToEachOther.pdb
