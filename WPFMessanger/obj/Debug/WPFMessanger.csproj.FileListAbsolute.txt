@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\bin\Debug\WPFMessanger.exe.config
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\bin\Debug\WPFMessanger.exe
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\bin\Debug\WPFMessanger.pdb
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger_MarkupCompile.cache
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger_MarkupCompile.lref
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger.g.resources
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger.Properties.Resources.resources
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger.exe
+C:\Users\user\source\repos\WPFMessanger\WPFMessanger\obj\Debug\WPFMessanger.pdb

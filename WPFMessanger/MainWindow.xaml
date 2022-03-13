@@ -1,0 +1,23 @@
+﻿<Window x:Class="WPFMessanger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFMessanger"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Son of bitch write a message!!!" FontSize="25" FontWeight="DemiBold" Foreground="Coral"  />
+            <TextBox Text="" Height="50" BorderThickness="4" FontSize="15" Name="tbMessage"/>
+            <Button Content="Send" HorizontalAlignment="Right" 
+                    FontSize="30" Background="Transparent" 
+                    BorderThickness="4" Foreground="Black" Click="Button_Click"/>
+
+            <TextBlock Text="Who wrote to you:" FontSize="25" 
+                       Foreground="Crimson" FontStyle="Italic"/>
+            <TextBlock x:Name="tbAnswer" Text ="What the person sent to you:" FontSize="25" 
+                       Foreground="Crimson" FontStyle="Italic"/>
+        </StackPanel>
+    </Grid>
+</Window>
