@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleMessanger\ConsoleMessanger\bin\Debug\ConsoleMessanger.exe.config
+C:\Users\user\source\repos\ConsoleMessanger\ConsoleMessanger\bin\Debug\ConsoleMessanger.exe
+C:\Users\user\source\repos\ConsoleMessanger\ConsoleMessanger\bin\Debug\ConsoleMessanger.pdb
+C:\Users\user\source\repos\ConsoleMessanger\ConsoleMessanger\obj\Debug\ConsoleMessanger.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleMessanger\ConsoleMessanger\obj\Debug\ConsoleMessanger.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleMessanger\ConsoleMessanger\obj\Debug\ConsoleMessanger.exe
+C:\Users\user\source\repos\ConsoleMessanger\ConsoleMessanger\obj\Debug\ConsoleMessanger.pdb
