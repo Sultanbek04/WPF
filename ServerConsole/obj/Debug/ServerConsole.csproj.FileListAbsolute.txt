@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Socket2\ServerConsole\bin\Debug\ServerConsole.exe.config
+C:\Users\user\source\repos\Socket2\ServerConsole\bin\Debug\ServerConsole.exe
+C:\Users\user\source\repos\Socket2\ServerConsole\bin\Debug\ServerConsole.pdb
+C:\Users\user\source\repos\Socket2\ServerConsole\obj\Debug\ServerConsole.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Socket2\ServerConsole\obj\Debug\ServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Socket2\ServerConsole\obj\Debug\ServerConsole.exe
+C:\Users\user\source\repos\Socket2\ServerConsole\obj\Debug\ServerConsole.pdb

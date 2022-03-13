@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Socket2\Socket2\bin\Debug\Socket2.exe.config
+C:\Users\user\source\repos\Socket2\Socket2\bin\Debug\Socket2.exe
+C:\Users\user\source\repos\Socket2\Socket2\bin\Debug\Socket2.pdb
+C:\Users\user\source\repos\Socket2\Socket2\obj\Debug\Socket2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Socket2\Socket2\obj\Debug\Socket2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Socket2\Socket2\obj\Debug\Socket2.exe
+C:\Users\user\source\repos\Socket2\Socket2\obj\Debug\Socket2.pdb
