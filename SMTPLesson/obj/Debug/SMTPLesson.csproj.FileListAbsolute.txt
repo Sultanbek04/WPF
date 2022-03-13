@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SMTPLesson\SMTPLesson\bin\Debug\SMTPLesson.exe.config
+C:\Users\user\source\repos\SMTPLesson\SMTPLesson\bin\Debug\SMTPLesson.exe
+C:\Users\user\source\repos\SMTPLesson\SMTPLesson\bin\Debug\SMTPLesson.pdb
+C:\Users\user\source\repos\SMTPLesson\SMTPLesson\obj\Debug\SMTPLesson.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SMTPLesson\SMTPLesson\obj\Debug\SMTPLesson.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SMTPLesson\SMTPLesson\obj\Debug\SMTPLesson.exe
+C:\Users\user\source\repos\SMTPLesson\SMTPLesson\obj\Debug\SMTPLesson.pdb
