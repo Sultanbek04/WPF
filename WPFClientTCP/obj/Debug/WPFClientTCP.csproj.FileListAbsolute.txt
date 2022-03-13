@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP_MarkupCompile.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP_MarkupCompile.lref
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\bin\Debug\WPFClientTCP.exe.config
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\bin\Debug\WPFClientTCP.exe
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\bin\Debug\WPFClientTCP.pdb
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP.g.resources
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP.Properties.Resources.resources
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP.exe
+C:\Users\user\source\repos\WPFClientTCP\WPFClientTCP\obj\Debug\WPFClientTCP.pdb

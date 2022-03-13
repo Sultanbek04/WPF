@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClientTCP", "WPFClientTCP\WPFClientTCP.csproj", "{5B18BA4A-C4D6-4038-9FCA-FE10AB22ACA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFClientCartsTCP", "WPFClientCartsTCP\WPFClientCartsTCP.csproj", "{151C0944-8287-4E69-8CB2-C578FBEDA020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B18BA4A-C4D6-4038-9FCA-FE10AB22ACA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B18BA4A-C4D6-4038-9FCA-FE10AB22ACA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B18BA4A-C4D6-4038-9FCA-FE10AB22ACA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B18BA4A-C4D6-4038-9FCA-FE10AB22ACA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151C0944-8287-4E69-8CB2-C578FBEDA020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151C0944-8287-4E69-8CB2-C578FBEDA020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151C0944-8287-4E69-8CB2-C578FBEDA020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151C0944-8287-4E69-8CB2-C578FBEDA020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FE2139-2FF1-48B5-831D-F7443FA3D633}
+	EndGlobalSection
+EndGlobal

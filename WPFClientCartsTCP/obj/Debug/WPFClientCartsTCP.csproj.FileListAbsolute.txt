@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\bin\Debug\WPFClientCartsTCP.exe.config
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\bin\Debug\WPFClientCartsTCP.exe
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\bin\Debug\WPFClientCartsTCP.pdb
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP_MarkupCompile.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP_MarkupCompile.lref
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP.g.resources
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP.Properties.Resources.resources
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP.exe
+C:\Users\user\source\repos\WPFClientTCP\WPFClientCartsTCP\obj\Debug\WPFClientCartsTCP.pdb

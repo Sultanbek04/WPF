@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFClientTCP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFClientTCP"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Width="400" Height="200" Content="!!!Roll!!!" Name="bRoll" Click="bRoll_Click"/> 
+        <TextBlock Name="tbNumber" Width="50" Height="50" VerticalAlignment="Bottom" Text="" />
+        <TextBlock Name="tbLog" Height="50" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+      
+
+
+    </Grid>
+</Window>
