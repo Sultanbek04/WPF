@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\bin\Debug\ClientTCPHW.exe.config
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\bin\Debug\ClientTCPHW.exe
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\bin\Debug\ClientTCPHW.pdb
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\App.g.cs
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW_MarkupCompile.cache
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW_MarkupCompile.lref
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW.g.resources
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW.Properties.Resources.resources
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW.exe
+C:\Users\user\source\repos\ClientTCPHW\ClientTCPHW\obj\Debug\ClientTCPHW.pdb
