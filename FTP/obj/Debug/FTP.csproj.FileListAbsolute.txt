@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\FTP.exe.config
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\FTP.exe
+C:\Users\user\source\repos\FTP\FTP\bin\Debug\FTP.pdb
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\FTP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\FTP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\FTP.exe
+C:\Users\user\source\repos\FTP\FTP\obj\Debug\FTP.pdb
