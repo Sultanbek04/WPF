@@ -1,0 +1,36 @@
+﻿<Window x:Class="SomeProjectWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SomeProjectWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <FlowDocumentScrollViewer Name="lanlor">
+            <FlowDocument Name="hander">
+                <Paragraph Name="mas" >
+                    <Grid>
+                        <Image Source="/img/JLO.jpg" Name="p" Margin="0 0 0 0" ></Image>
+                        <TextBlock IsEnabled="False" Text="SULTANBEK MYRZAKHMET" FontFamily="Normal" Margin="83 73.4 0 0" FontSize="6" />
+                        <TextBlock Text="M4237895384DFJ1" FontFamily="Normal" Margin="83 82.7 0 0" FontSize="6"/>
+                        <TextBlock Text="04/26/2004" FontFamily="Normal" Margin="83 92.7 0 0" FontSize="6"/>
+                        <TextBlock Text="17Y 10M 17D" FontFamily="Normal" Margin="83 102.7 0 0" FontSize="6"/>
+                        <TextBlock Text="Male" FontFamily="Normal" Margin="83 111.5 0 0" FontSize="6"/>
+                        <TextBlock Text="SEHA15551793" FontFamily="Normal" Margin="83 121.5 0 0" FontSize="6"/>
+                        <TextBlock Text="222-2222-2222222-2" FontFamily="Normal" Margin="265 82.65 0 0" FontSize="6"/>
+                        <TextBlock Text="N10505577" FontFamily="Normal" Margin="265 92 0 0" FontSize="6"/>
+                        <TextBlock Text="SEHA" FontFamily="Normal" Margin="265 102 0 0" FontSize="6"/>
+                        <TextBlock Text="Mafraq Lab - Abu Dhabi" FontFamily="Normal" Margin="265 112 0 0" FontSize="6"/>
+                        <TextBlock Text="Mafraq Lab - Abu Dhabi" FontFamily="Normal" Margin="265 122 0 0" FontSize="6"/>
+                        <TextBlock Text="15/01/2022 19:29 [15/01/2022 19:29]" FontFamily="Arial" Margin="76.3 201.1 0 0" FontSize="6.4" Name="time" Opacity="1" />
+
+                         
+                    </Grid>
+                </Paragraph>
+            </FlowDocument>
+        </FlowDocumentScrollViewer>
+
+    </Grid>
+</Window>

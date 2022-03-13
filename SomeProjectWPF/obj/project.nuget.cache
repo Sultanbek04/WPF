@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "itY7ys3EyvkDZIo5S8rw5hNGSOlwg/NVwVgkCdERK5ZpLelCemDG83pCpvPK0xIlNnCsNDRew0Iw0581h0yzOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\SomeProjectWPF\\SomeProjectWPF\\SomeProjectWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\syncfusion.compression.base\\19.4.0.50\\syncfusion.compression.base.19.4.0.50.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\syncfusion.licensing\\19.4.0.50\\syncfusion.licensing.19.4.0.50.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\syncfusion.pdf.wpf\\19.4.0.50\\syncfusion.pdf.wpf.19.4.0.50.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
