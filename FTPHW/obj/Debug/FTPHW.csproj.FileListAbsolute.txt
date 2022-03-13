@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FTPHW\FTPHW\bin\Debug\FTPHW.exe.config
+C:\Users\user\source\repos\FTPHW\FTPHW\bin\Debug\FTPHW.exe
+C:\Users\user\source\repos\FTPHW\FTPHW\bin\Debug\FTPHW.pdb
+C:\Users\user\source\repos\FTPHW\FTPHW\obj\Debug\FTPHW.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FTPHW\FTPHW\obj\Debug\FTPHW.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FTPHW\FTPHW\obj\Debug\FTPHW.exe
+C:\Users\user\source\repos\FTPHW\FTPHW\obj\Debug\FTPHW.pdb
