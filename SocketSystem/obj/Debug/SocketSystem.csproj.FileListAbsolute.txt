@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SocketSystem\SocketSystem\bin\Debug\SocketSystem.exe.config
+C:\Users\user\source\repos\SocketSystem\SocketSystem\bin\Debug\SocketSystem.exe
+C:\Users\user\source\repos\SocketSystem\SocketSystem\bin\Debug\SocketSystem.pdb
+C:\Users\user\source\repos\SocketSystem\SocketSystem\obj\Debug\SocketSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SocketSystem\SocketSystem\obj\Debug\SocketSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SocketSystem\SocketSystem\obj\Debug\SocketSystem.exe
+C:\Users\user\source\repos\SocketSystem\SocketSystem\obj\Debug\SocketSystem.pdb
