@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\user\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe
+C:\Users\user\source\repos\HTTP\HTTP\bin\Debug\HTTP.pdb
+C:\Users\user\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HTTP\HTTP\obj\Debug\HTTP.exe
+C:\Users\user\source\repos\HTTP\HTTP\obj\Debug\HTTP.pdb
