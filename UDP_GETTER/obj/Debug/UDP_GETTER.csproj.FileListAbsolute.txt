@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\UDP_GETTER\UDP_GETTER\bin\Debug\UDP_GETTER.exe.config
+C:\Users\user\source\repos\UDP_GETTER\UDP_GETTER\bin\Debug\UDP_GETTER.exe
+C:\Users\user\source\repos\UDP_GETTER\UDP_GETTER\bin\Debug\UDP_GETTER.pdb
+C:\Users\user\source\repos\UDP_GETTER\UDP_GETTER\obj\Debug\UDP_GETTER.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UDP_GETTER\UDP_GETTER\obj\Debug\UDP_GETTER.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UDP_GETTER\UDP_GETTER\obj\Debug\UDP_GETTER.exe
+C:\Users\user\source\repos\UDP_GETTER\UDP_GETTER\obj\Debug\UDP_GETTER.pdb
